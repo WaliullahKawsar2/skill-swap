@@ -1,0 +1,122 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 25,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar lessons for complete beginners. Learn chords, strumming, and simple songs.",
+    "image": "https://i.ibb.co.com/Djcj61R/Orange-Yellow-Modern-Tips-Grow-Business-Banner.png",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 15,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Improve your fluency and pronunciation through friendly conversation sessions.",
+    "image": "https://i.ibb.co.com/HTKHt0Zg/English-Analysing-Themes-and-Ideas-Presentation-Beige-Pink-Lined-Style.png",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Priya Sen",
+    "providerEmail": "priya@skillswap.com",
+    "price": 18,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Morning yoga sessions focusing on flexibility, breathing, and relaxation.",
+    "image": "https://i.ibb.co.com/1fB0ttd1/Orange-Black-and-White-Simple-Yoga-for-Beginners-You-Tube-Thumbnail.png",
+    "category": "Fitness"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Basic Photoshop Editing",
+    "providerName": "John Carter",
+    "providerEmail": "john@skillswap.com",
+    "price": 20,
+    "rating": 4.7,
+    "slotsAvailable": 2,
+    "description": "Learn essential Photoshop tools, layer masking, and retouching techniques.",
+    "image": "https://i.ibb.co.com/JwbDP0mW/Orange-Black-and-White-Simple-Yoga-for-Beginners-You-Tube-Thumbnail-1.png",
+    "category": "Design"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Cooking Bangladeshi Dishes",
+    "providerName": "Mina Akter",
+    "providerEmail": "mina@skillswap.com",
+    "price": 12,
+    "rating": 4.5,
+    "slotsAvailable": 6,
+    "description": "Learn to cook traditional Bangladeshi dishes like biryani, bhuna khichuri, and pitha.",
+    "image": "https://i.ibb.co.com/rRpQLRZs/White-and-Orange-Food-You-Tube-Thumbnail.png",
+    "category": "Cooking"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Basic Coding with Python",
+    "providerName": "Rakib Hasan",
+    "providerEmail": "rakib@skillswap.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "Start your coding journey with Python. Learn syntax, loops, and small projects.",
+    "image": "https://i.ibb.co.com/cSGT1kC0/Black-and-White-Simple-Portfolio-Graphic-Design-A4-Document-Landscape-2.png",
+    "category": "Programming"
+  },
+  {
+    "skillId": 7,
+    "skillName": "Photography Basics",
+    "providerName": "Emily Johnson",
+    "providerEmail": "emily@skillswap.com",
+    "price": 22,
+    "rating": 4.6,
+    "slotsAvailable": 2,
+    "description": "Learn how to capture stunning photos using your DSLR or smartphone camera.",
+    "image": "https://i.ibb.co.com/7dCVRTdJ/Black-and-White-Simple-Portfolio-Graphic-Design-A4-Document-Landscape-3.png",
+    "category": "Art"
+  },
+  {
+    "skillId": 8,
+    "skillName": "Digital Marketing Fundamentals",
+    "providerName": "Shafin Ahmed",
+    "providerEmail": "shafin@skillswap.com",
+    "price": 30,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Understand SEO, social media marketing, and analytics to boost your business.",
+    "image": "https://i.ibb.co.com/twT3KYRT/Orange-Yellow-Modern-Tips-Grow-Business-Banner-1.png",
+    "category": "Business"
+  },
+  {
+    "skillId": 9,
+    "skillName": "Basic French Language Course",
+    "providerName": "Camille Dupont",
+    "providerEmail": "camille@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 5,
+    "description": "Learn essential French vocabulary, greetings, and daily conversation phrases.",
+    "image": "https://i.ibb.co.com/kVjxcG8j/Black-and-White-Simple-Portfolio-Graphic-Design-A4-Document-Landscape-1.png",
+    "category": "Language"
+  },
+  {
+    "skillId": 10,
+    "skillName": "Graphic Design with Canva",
+    "providerName": "Noor Rahman",
+    "providerEmail": "noor@skillswap.com",
+    "price": 10,
+    "rating": 4.4,
+    "slotsAvailable": 8,
+    "description": "Master Canva to design social media posts, resumes, and marketing flyers.",
+    "image": "https://i.ibb.co.com/p6cBF29m/Black-and-White-Simple-Portfolio-Graphic-Design-A4-Document-Landscape.png",
+    "category": "Design"
+  }
+]
