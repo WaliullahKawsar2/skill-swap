@@ -49,7 +49,7 @@ Skill Swap is a modern skill-sharing platform where users can explore, book, and
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/WaliullahKawsar2/skill-swap.git>
 ```
 
 2. **Navigate to the project folder:**
@@ -121,5 +121,6 @@ skill-swap/
 - Skill and provider data is stored in JSON and displayed dynamically.
 - Booked sessions are stored in `localStorage` for persistent display.
 - All pages are responsive and optimized for both desktop and mobile screens.
+
 
 
