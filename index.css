@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark, cupcake;
+}
+
+@theme {
+  --animate-background: background-move ease infinite;
+
+  @keyframes background-move {
+    0%,
+    100% {
+      background-position: 0% 50%;
+    }
+
+    50% {
+      background-position: 100% 50%;
+    }
+  }
+}
+
+a.active{
+  @apply btn-active
+}
+
+input{
+  @apply outline-none
+}
+
+.animate__animated.animate__rubberBand {
+  --animate-duration: 2s;
+  --animate-delay: 3s;
+}
