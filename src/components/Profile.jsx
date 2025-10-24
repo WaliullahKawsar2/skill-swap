@@ -12,7 +12,7 @@ const Profile = () => {
     <Menu as="div" className="relative ml-3">
       {user && (
         <>
-          <Menu.Button className="flex rounded-full focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">
+          <Menu.Button title={user.displayName} className="flex outline-none animate-background rounded-full bg-gradient-to-r from-green-300 via-blue-600 to-red-300 bg-[length:_400%_400%] p-[2px] [animation-duration:_6s] shadow-[0_0_6px_rgba(0,0,0,0.9)] cursor-pointer">
             <span className="sr-only">Open user menu</span>
             <div className="overflow-hidden rounded-full bg-base-300 w-8 h-8">
               <img src={user.photoURL} alt="User Avatar" className="w-full h-full object-cover" />
